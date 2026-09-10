@@ -1,0 +1,30 @@
+# Godot binaries and export templates
+Godot_*
+Godot_v*
+*.tpz
+*.exe
+
+# Blender portable package
+blender-*/
+
+# Godot editor cache and import data
+.godot/
+SlapSimulator/.godot/
+
+# Build artifacts (APKs are published as GitHub Releases)
+builds/
+*.apk
+*.aab
+
+# Keystores and private signing credentials
+*.keystore
+*.jks
+
+# Logs and temporary files
+*.log
+*.tmp
+__pycache__/
+*.pyc
+
+# Test environments
+test_android/
