@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/uamo11/yna/releases/latest"><img src="https://img.shields.io/github/v/release/uamo11/yna?style=for-the-badge&color=ff4081" alt="Latest Release"></a>
+  <a href="https://github.com/anhot11/yna/releases/latest"><img src="https://img.shields.io/github/v/release/anhot11/yna?style=for-the-badge&color=ff4081" alt="Latest Release"></a>
   <img src="https://img.shields.io/badge/Platform-Android%20%7C%20Windows-blue?style=for-the-badge" alt="Platforms">
   <img src="https://img.shields.io/badge/Engine-Godot%204.7.2-478cbf?style=for-the-badge&logo=godotengine" alt="Godot Engine">
 </p>
@@ -19,7 +19,7 @@
 
 ## 📱 Descargas
 
-- **APK v2.0.0 para Android (arm64-v8a / armeabi-v7a)**: [Descargar desde Releases](https://github.com/uamo11/yna/releases/latest)
+- **APK v2.0.0 para Android (arm64-v8a / armeabi-v7a)**: [Descargar desde Releases](https://github.com/anhot11/yna/releases/latest)
 
 ---
 

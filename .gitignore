@@ -28,3 +28,4 @@ __pycache__/
 
 # Test environments
 test_android/
+release_assets/
